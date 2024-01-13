@@ -25,18 +25,18 @@ button{
 }
   
 button:hover{
-    background-color: #010712;
+    background-color: #da1e3d;
         color: #fdfdfd;
     }
 
  button > i{
     color: #010712;
-    font-weight: bolder;
-    pointer-events: auto;
+    font-weight: bold;
+    pointer-events: none;
  }
 
  button > i:hover{
-    color: #fff;  
+  color: #fff;
  }
 
 input, select {
